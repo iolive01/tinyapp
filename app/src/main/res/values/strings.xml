@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IrisTinyApp</string>
+    <string name="edit_message">what do you want to ask the sloth?</string>
+    <string name="button_send">ask</string>
+
+    <string name="title_activity_fullscreen">SlothActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
